@@ -1,0 +1,28 @@
+# Entorno virtual
+/entorno
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de la base de datos
+db.sqlite3
+*.sqlite3
+
+# Archivos de migraciones
+/tienda/apps/producto/migrations
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de sistemas operativos
+.DS_Store
+Thumbs.db
+
